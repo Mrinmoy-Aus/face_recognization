@@ -65,7 +65,7 @@ You can even use this library with other Python libraries to do real-time face r
 
 ![](https://cloud.githubusercontent.com/assets/896692/24430398/36f0e3f0-13cb-11e7-8258-4d0c9ce1e419.gif)
 
-See [this example](https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_webcam_faster.py) for the code.
+
 
 ## Online Demos
 
