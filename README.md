@@ -63,13 +63,9 @@ results = face_recognition.compare_faces([biden_encoding], unknown_encoding)
 
 You can even use this library with other Python libraries to do real-time face recognition:
 
-![](https://cloud.githubusercontent.com/assets/896692/24430398/36f0e3f0-13cb-11e7-8258-4d0c9ce1e419.gif)
 
 
 
-## Online Demos
-
-User-contributed shared Jupyter notebook demo (not officially supported): [![Deepnote](https://beta.deepnote.org/buttons/try-in-a-jupyter-notebook.svg)](https://beta.deepnote.org/launch?template=face_recognition)
 
 ## Installation
 
